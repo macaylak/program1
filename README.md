@@ -1,7 +1,7 @@
 # Clone the repo
 git clone https://github.com/yourusername/program1.git
 
-cd program1
+make sure you're in the project directory "program1"
 
 # Install dependencies
 npm install
